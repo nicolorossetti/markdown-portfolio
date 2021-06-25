@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+what about being fun
+**FUN**
+_not really fun_
+__BUT ACTUALLY FUN
+*ok I am fun*
